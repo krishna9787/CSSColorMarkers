@@ -19,178 +19,185 @@ h3 {
     margin: 10px auto;
     width:300px;
     height: 40px;
-}
-
-.one {
     text-align:center;
     vertical-align:middle;
     line-height:40px;
+}
+
+.one {
     color:white;
     background-color:rgb(255,0,0);
 }
 
 .two {
-    text-align:center;
-    vertical-align:middle;
-    line-height:40px;
     background-color: rgb(0,255,0)
 }
 
 .three{
-    text-align:center;
-    vertical-align:middle;
-    line-height:40px;
     color: white;
     background-color: rgb(0,0,255);
 }
 
 .four {
-    text-align:center;
-    vertical-align:middle;
-    line-height:40px;
     background-color:rgb(255,255,0);
 }
 
 .five {
-    text-align:center;
-    vertical-align:middle;
-    line-height:40px;
     background-color:rgb(0,255,255);
 }
 
 .six {
-    text-align:center;
-    vertical-align:middle;
-    line-height:40px;
     background-color:rgb(255,0,255)
 }
 
 .seven {
-    text-align:center;
-    vertical-align:middle;
-    line-height:40px;
     background-color: rgb(255,127,0);
 
 }
 
 .eight {
-    text-align:center;
-    vertical-align:middle;
-    line-height:40px;
     background-color:rgb(0,225,127)
 }
 
 .nine {
-    text-align:center;
-    vertical-align:middle;
-    line-height:40px;
     background-color: rgb(127,0,255);
 }
 
 .ten {
-    text-align:center;
-    vertical-align:middle;
-    line-height:40px;
     background-color:rgb(127,255,0);
 }
 
 .eleven {
-    text-align:center;
-    vertical-align:middle;
-    line-height:40px;
     background-color: rgb(0,127,255);
 }
 
 .twelve {
-    text-align:center;
-    vertical-align:middle;
-    line-height:40px;
     background-color:rgb(255,0,127);
 }
 
 .oneH {
-    text-align:center;
-    vertical-align:middle;
-    line-height:40px;
     color:white;
     background-color:#FF0000;
 }
 
 .twoH {
-    text-align:center;
-    vertical-align:middle;
-    line-height:40px;
     background-color: #00FF00
 }
 
 .threeH {
-    text-align:center;
-    vertical-align:middle;
-    line-height:40px;
     color: white;
     background-color: #0000FF;
 }
 
 .fourH {
-    text-align:center;
-    vertical-align:middle;
-    line-height:40px;
     background-color:#FFFF00;
 }
 
 .fiveH {
-    text-align:center;
-    vertical-align:middle;
-    line-height:40px;
     background-color:#00FFFF;
 }
 
 .sixH {
-    text-align:center;
-    vertical-align:middle;
-    line-height:40px;
     background-color:#FF00FF;
 }
 
 .sevenH {
-    text-align:center;
-    vertical-align:middle;
-    line-height:40px;
     background-color: #FF7F00;
 
 }
 
 .eightH {
-    text-align:center;
-    vertical-align:middle;
-    line-height:40px;
     background-color:#00FF7F;
 }
 
 .nineH {
-    text-align:center;
-    vertical-align:middle;
-    line-height:40px;
     background-color: #7F00FF;
 }
 
 .tenH {
-    text-align:center;
-    vertical-align:middle;
-    line-height:40px;
     background-color:#7FFF00;
 }
 
 .elevenH {
-    text-align:center;
-    vertical-align:middle;
-    line-height:40px;
     background-color: #007FFF;
 }
 
 .twelveH {
-    text-align:center;
-    vertical-align:middle;
-    line-height:40px;
     background-color:#FF007F;
+}
+
+.oneHSL {
+    background-color:hsl(0,100%,50%);
+}
+
+.twoHSL {
+    background-color:hsl(120,100%,50%);
+}
+
+.threeHSL {
+    color:#FFFFFF;
+    background-color:hsl(240,100%,50%);
+}
+
+.fourHSL {
+    background-color:hsl(60,100%,50%);
+}
+
+.fiveHSL {
+    background-color:hsl(180,100%,50%);
+}
+
+.sixHSL {
+    background-color:hsl(300,100%,50%);
+}
+
+.sevenHSL {
+    background-color: hsl(39,100%,50%);
+}
+
+.eightHSL {
+    background-color: hsl(150,100%,50%);
+}
+
+.nineHSL {
+    background-color: HSL(270,100%,50%);
+}
+
+.tenHSL {
+    background-color: hsl(90,100%,50%);
+}
+
+.elevenHSL {
+    background-color:hsl(210,100%,50%);
+}
+
+.twelveHSL {
+    background-color: hsl(330,100%,50%)
+}
+
+.thirteen {
+    background: linear-gradient(90deg, RGB(255,0,0), RGB(0,255,0), RGB(0,0,255));
+}
+
+.fourteen {
+    color:#FFFFFF;
+/*    background: linear-gradient(180deg, RGB(122,74,14), RGB(245,62,113), RGB(162,27,27)) */
+    background: linear-gradient(180deg, RGB(128,0,0), RGB(128,0,128), RGB(255,0,0));
+}
+
+.red {
+    background: linear-gradient(90deg, #00FFFF, #0000FF, #000080)
+}
+
+.sleeve {
+    width:150px;
+    height:40px;
+    background-color:white;
+    opacity:0.5;
+}
+
+.sleever {
+    width:150px;
+    height:40px;
+    background-color: rgba(255,255,255,0.5)
 }
